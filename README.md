@@ -2,4 +2,5 @@
 `pip install -U wxPython`
 
 ## Hello World
-[HelloWorld](HelloWorld.py)
+1. [HelloWorld](HelloWorld.py)
+2. [HelloWorld2](HelloWorld02.py)
